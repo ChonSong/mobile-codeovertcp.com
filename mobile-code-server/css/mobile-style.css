@@ -1,0 +1,49 @@
+/* Mobile Code-Server Overrides */
+
+/* 1. Larger Touch Targets for Tree View */
+.monaco-list-row {
+    height: 28px !important; /* Increase row height */
+    line-height: 28px !important;
+}
+
+.monaco-tl-contents {
+    display: flex;
+    align-items: center;
+}
+
+/* 2. Scrollbar Improvements */
+.monaco-scrollable-element > .scrollbar > .slider {
+    min-width: 15px !important; /* Wider vertical scrollbar */
+    min-height: 15px !important; /* Taller horizontal scrollbar */
+    border-radius: 10px !important;
+    background: rgba(100, 100, 100, 0.6) !important;
+}
+
+.monaco-scrollable-element > .scrollbar > .slider:hover {
+    background: rgba(100, 100, 100, 0.8) !important;
+}
+
+/* 3. Font Size Adjustments */
+.monaco-workbench {
+    font-size: 14px !important;
+}
+
+.monaco-editor {
+    font-size: 14px !important;
+}
+
+/* 4. Hide/Show Sidebar Button (if not handled by JS, ensure visibility) */
+#mobile-sidebar-toggle {
+    /* Ensure it's on top */
+    z-index: 99999 !important;
+}
+
+/* 5. General Touch Optimizations */
+input, select, button, textarea {
+    font-size: 16px !important; /* Prevent zoom on focus on iOS */
+}
+
+/* Context Menu Touch Target */
+.monaco-menu .monaco-action-bar.vertical .action-item {
+    padding: 8px 0 !important;
+}
