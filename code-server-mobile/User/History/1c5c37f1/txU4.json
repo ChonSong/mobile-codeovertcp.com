@@ -1,0 +1,22 @@
+{
+  "workbench.colorTheme": "Default Dark+",
+  "workbench.startupEditor": "none",
+  
+  "terminal.integrated.fontSize": 14,
+  "terminal.integrated.lineHeight": 1.2,
+  "terminal.integrated.scrollback": 10000,
+  "terminal.integrated.cursorStyle": "line",
+  "terminal.integrated.cursorBlinking": true,
+  "editor.minimap.enabled": false,
+  "breadcrumbs.enabled": false,
+  "workbench.tree.indent": 20,
+  
+  "editor.fontSize": 14,
+  "editor.lineHeight": 1.5,
+  
+  "workbench.statusBar.visible": true,
+  "editor.renderWhitespace": "none",
+  "editor.wordWrap": "on",
+  "workbench.activityBar.location": "hidden",
+  "window.menuBarVisibility": "classic"
+}

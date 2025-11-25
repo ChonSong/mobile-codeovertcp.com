@@ -1,0 +1,12 @@
+[Unit]
+Description=code-server (Mobile-Optimized)
+After=network.target
+
+[Service]
+Type=exec
+ExecStart=/usr/bin/code-server --config /home/seanos1a/.config/code-server-mobile/config.yaml --user-data-dir /home/seanos1a/.local/share/code-server-mobile
+Restart=always
+User=seanos1a
+
+[Install]
+WantedBy=default.target

@@ -1,0 +1,262 @@
+2025-11-23 12:07:47.020 [info] [main] Log level: Info
+2025-11-23 12:07:47.020 [info] [main] Validating found git in: "git"
+2025-11-23 12:07:47.020 [info] [main] Using git "2.47.3" from "git"
+2025-11-23 12:07:47.020 [info] [Model][doInitialScan] Initial repository scan started
+2025-11-23 12:07:47.020 [info] > git rev-parse --show-toplevel [3ms]
+2025-11-23 12:07:47.020 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-23 12:07:47.020 [info] > git rev-parse --show-toplevel [3ms]
+2025-11-23 12:07:47.020 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-23 12:07:47.020 [info] > git rev-parse --show-toplevel [2ms]
+2025-11-23 12:07:47.020 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-23 12:07:47.020 [info] > git rev-parse --show-toplevel [1ms]
+2025-11-23 12:07:47.020 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-23 12:07:47.020 [info] > git rev-parse --show-toplevel [2ms]
+2025-11-23 12:07:47.020 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-23 12:07:47.020 [info] > git rev-parse --show-toplevel [2ms]
+2025-11-23 12:07:47.020 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-23 12:07:47.020 [info] > git rev-parse --show-toplevel [2ms]
+2025-11-23 12:07:47.020 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-23 12:07:47.020 [info] > git rev-parse --show-toplevel [1ms]
+2025-11-23 12:07:47.020 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-23 12:07:47.020 [info] > git rev-parse --show-toplevel [3ms]
+2025-11-23 12:07:47.020 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-23 12:07:47.020 [info] > git rev-parse --show-toplevel [2ms]
+2025-11-23 12:07:47.020 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-23 12:07:47.020 [info] > git rev-parse --show-toplevel [2ms]
+2025-11-23 12:07:47.020 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-23 12:07:47.020 [info] > git rev-parse --show-toplevel [2ms]
+2025-11-23 12:07:47.020 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-23 12:07:47.020 [info] > git rev-parse --show-toplevel [2ms]
+2025-11-23 12:07:47.020 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-23 12:07:47.020 [info] > git rev-parse --show-toplevel [2ms]
+2025-11-23 12:07:47.020 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-23 12:07:47.020 [info] > git rev-parse --show-toplevel [2ms]
+2025-11-23 12:07:47.020 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-23 12:07:47.020 [info] > git rev-parse --show-toplevel [2ms]
+2025-11-23 12:07:47.020 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-23 12:07:47.020 [info] > git rev-parse --show-toplevel [3ms]
+2025-11-23 12:07:47.020 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-23 12:07:47.020 [info] > git rev-parse --show-toplevel [4ms]
+2025-11-23 12:07:47.020 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-23 12:07:47.020 [info] > git rev-parse --show-toplevel [2ms]
+2025-11-23 12:07:47.020 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-23 12:07:47.027 [info] > git rev-parse --show-toplevel [2ms]
+2025-11-23 12:07:47.027 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-23 12:07:47.035 [info] > git rev-parse --show-toplevel [2ms]
+2025-11-23 12:07:47.035 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-23 12:07:47.042 [info] > git rev-parse --show-toplevel [1ms]
+2025-11-23 12:07:47.042 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-23 12:07:47.049 [info] > git rev-parse --show-toplevel [2ms]
+2025-11-23 12:07:47.049 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-23 12:07:47.056 [info] > git rev-parse --show-toplevel [1ms]
+2025-11-23 12:07:47.066 [info] > git rev-parse --git-dir --git-common-dir --show-superproject-working-tree [5ms]
+2025-11-23 12:07:47.082 [info] [Model][openRepository] Opened repository (path): /home/seanos1a/ecommerce-dash
+2025-11-23 12:07:47.082 [info] [Model][openRepository] Opened repository (real path): /home/seanos1a/ecommerce-dash
+2025-11-23 12:07:47.082 [info] [Model][openRepository] Opened repository (kind): repository
+2025-11-23 12:07:47.102 [info] > git rev-parse --show-toplevel [8ms]
+2025-11-23 12:07:47.103 [info] > git config --get commit.template [13ms]
+2025-11-23 12:07:47.114 [info] [Git][getRemotes] No remotes found in the git config file
+2025-11-23 12:07:47.115 [info] > git rev-parse --git-dir --git-common-dir --show-superproject-working-tree [7ms]
+2025-11-23 12:07:47.121 [info] [Model][openRepository] Opened repository (path): /home/seanos1a/ecotracker-app
+2025-11-23 12:07:47.121 [info] [Model][openRepository] Opened repository (real path): /home/seanos1a/ecotracker-app
+2025-11-23 12:07:47.121 [info] [Model][openRepository] Opened repository (kind): repository
+2025-11-23 12:07:47.166 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [53ms]
+2025-11-23 12:07:47.185 [info] > git status -z -uall [13ms]
+2025-11-23 12:07:47.185 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [4ms]
+2025-11-23 12:07:47.203 [info] > git rev-parse --show-toplevel [37ms]
+2025-11-23 12:07:47.203 [info] > git config --get commit.template [43ms]
+2025-11-23 12:07:47.214 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [16ms]
+2025-11-23 12:07:47.230 [info] > git rev-parse --git-dir --git-common-dir --show-superproject-working-tree [16ms]
+2025-11-23 12:07:47.235 [info] [Model][openRepository] Opened repository (path): /home/seanos1a/gemini-assistant
+2025-11-23 12:07:47.235 [info] [Model][openRepository] Opened repository (real path): /home/seanos1a/gemini-assistant
+2025-11-23 12:07:47.235 [info] [Model][openRepository] Opened repository (kind): repository
+2025-11-23 12:07:47.236 [info] > git config --get commit.template [28ms]
+2025-11-23 12:07:47.246 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [18ms]
+2025-11-23 12:07:47.247 [info] > git config --get --local branch.master.vscode-merge-base [28ms]
+2025-11-23 12:07:47.247 [warning] [Git][config] git config failed: Failed to execute git
+2025-11-23 12:07:47.253 [info] [Git][getRemotes] No remotes found in the git config file
+2025-11-23 12:07:47.258 [info] > git rev-parse --show-toplevel [13ms]
+2025-11-23 12:07:47.258 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-23 12:07:47.258 [info] > git config --get commit.template [17ms]
+2025-11-23 12:07:47.264 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [7ms]
+2025-11-23 12:07:47.274 [info] > git reflog master --grep-reflog=branch: Created from *. [22ms]
+2025-11-23 12:07:47.280 [info] [Git][getRemotes] No remotes found in the git config file
+2025-11-23 12:07:47.281 [info] > git status -z -uall [13ms]
+2025-11-23 12:07:47.281 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [7ms]
+2025-11-23 12:07:47.298 [info] > git rev-parse --show-toplevel [34ms]
+2025-11-23 12:07:47.309 [info] > git status -z -uall [7ms]
+2025-11-23 12:07:47.309 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [30ms]
+2025-11-23 12:07:47.324 [info] > git status -z -uall [11ms]
+2025-11-23 12:07:47.325 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [17ms]
+2025-11-23 12:07:47.344 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [12ms]
+2025-11-23 12:07:47.349 [info] > git rev-parse --git-dir --git-common-dir --show-superproject-working-tree [27ms]
+2025-11-23 12:07:47.354 [info] [Model][openRepository] Opened repository (path): /home/seanos1a/global-news-ai
+2025-11-23 12:07:47.354 [info] [Model][openRepository] Opened repository (real path): /home/seanos1a/global-news-ai
+2025-11-23 12:07:47.354 [info] [Model][openRepository] Opened repository (kind): repository
+2025-11-23 12:07:47.355 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [37ms]
+2025-11-23 12:07:47.376 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [16ms]
+2025-11-23 12:07:47.381 [info] > git config --get --local branch.master.vscode-merge-base [33ms]
+2025-11-23 12:07:47.382 [warning] [Git][config] git config failed: Failed to execute git
+2025-11-23 12:07:47.387 [info] > git config --get commit.template [44ms]
+2025-11-23 12:07:47.395 [info] > git reflog master --grep-reflog=branch: Created from *. [8ms]
+2025-11-23 12:07:47.400 [info] > git config --get --local branch.main.vscode-merge-base [19ms]
+2025-11-23 12:07:47.400 [warning] [Git][config] git config failed: Failed to execute git
+2025-11-23 12:07:47.408 [info] > git config --get commit.template [33ms]
+2025-11-23 12:07:47.408 [info] > git rev-parse --show-toplevel [37ms]
+2025-11-23 12:07:47.409 [info] > git config --get commit.template [42ms]
+2025-11-23 12:07:47.419 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [19ms]
+2025-11-23 12:07:47.419 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2025-11-23 12:07:47.419 [warning] [Repository][getDefaultBranch] Failed to get default branch details: Failed to execute git.
+2025-11-23 12:07:47.434 [info] [Git][getRemotes] No remotes found in the git config file
+2025-11-23 12:07:47.442 [info] > git merge-base refs/heads/master refs/remotes/origin/master [16ms]
+2025-11-23 12:07:47.449 [info] > git rev-parse --git-dir --git-common-dir --show-superproject-working-tree [31ms]
+2025-11-23 12:07:47.454 [info] [Model][openRepository] Opened repository (path): /home/seanos1a/h2h
+2025-11-23 12:07:47.454 [info] [Model][openRepository] Opened repository (real path): /home/seanos1a/h2h
+2025-11-23 12:07:47.454 [info] [Model][openRepository] Opened repository (kind): repository
+2025-11-23 12:07:47.455 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [42ms]
+2025-11-23 12:07:47.455 [info] > git reflog main --grep-reflog=branch: Created from *. [47ms]
+2025-11-23 12:07:47.468 [info] > git diff --name-status -z --diff-filter=ADMR --find-renames=50% b70d66f88d399a264d2d1a07e85dce708f400e9a...refs/remotes/origin/master -- [20ms]
+2025-11-23 12:07:47.468 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [28ms]
+2025-11-23 12:07:47.478 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [45ms]
+2025-11-23 12:07:47.480 [info] > git status -z -uall [7ms]
+2025-11-23 12:07:47.481 [info] > git rev-parse --show-toplevel [15ms]
+2025-11-23 12:07:47.481 [info] > git config --get commit.template [20ms]
+2025-11-23 12:07:47.492 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [15ms]
+2025-11-23 12:07:47.510 [info] > git status -z -uall [5ms]
+2025-11-23 12:07:47.510 [info] > git rev-parse --git-dir --git-common-dir --show-superproject-working-tree [24ms]
+2025-11-23 12:07:47.514 [info] [Model][openRepository] Opened repository (path): /home/seanos1a/hyperspeed
+2025-11-23 12:07:47.514 [info] [Model][openRepository] Opened repository (real path): /home/seanos1a/hyperspeed
+2025-11-23 12:07:47.514 [info] [Model][openRepository] Opened repository (kind): repository
+2025-11-23 12:07:47.534 [info] > git status -z -uall [14ms]
+2025-11-23 12:07:47.534 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [25ms]
+2025-11-23 12:07:47.539 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [39ms]
+2025-11-23 12:07:47.541 [info] > git rev-parse --show-toplevel [8ms]
+2025-11-23 12:07:47.541 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-23 12:07:47.541 [info] > git config --get commit.template [12ms]
+2025-11-23 12:07:47.541 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [17ms]
+2025-11-23 12:07:47.568 [info] [Git][getRemotes] No remotes found in the git config file
+2025-11-23 12:07:47.569 [info] > git rev-parse --show-toplevel [11ms]
+2025-11-23 12:07:47.569 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [18ms]
+2025-11-23 12:07:47.588 [info] > git status -z -uall [10ms]
+2025-11-23 12:07:47.588 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [21ms]
+2025-11-23 12:07:47.588 [warning] [Git][getBranch] No such branch: main
+2025-11-23 12:07:47.598 [info] > git config --get commit.template [35ms]
+2025-11-23 12:07:47.604 [info] > git status -z -uall [11ms]
+2025-11-23 12:07:47.605 [info] > git rev-parse --git-dir --git-common-dir --show-superproject-working-tree [18ms]
+2025-11-23 12:07:47.609 [info] [Model][openRepository] Opened repository (path): /home/seanos1a/nebula-ui
+2025-11-23 12:07:47.609 [info] [Model][openRepository] Opened repository (real path): /home/seanos1a/nebula-ui
+2025-11-23 12:07:47.609 [info] [Model][openRepository] Opened repository (kind): repository
+2025-11-23 12:07:47.610 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [28ms]
+2025-11-23 12:07:47.624 [info] > git config --get --local branch.main.vscode-merge-base [51ms]
+2025-11-23 12:07:47.624 [warning] [Git][config] git config failed: Failed to execute git
+2025-11-23 12:07:47.648 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [26ms]
+2025-11-23 12:07:47.653 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [51ms]
+2025-11-23 12:07:47.654 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [57ms]
+2025-11-23 12:07:47.688 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [17ms]
+2025-11-23 12:07:47.689 [warning] [Git][getBranch] No such branch: main
+2025-11-23 12:07:47.690 [error] [GitHistoryProvider][resolveHEADMergeBase] Failed to resolve merge base for main: Error: No such branch: main.
+2025-11-23 12:07:47.691 [info] > git config --get --local branch.main.vscode-merge-base [38ms]
+2025-11-23 12:07:47.697 [info] > git config --get commit.template [50ms]
+2025-11-23 12:07:47.697 [info] > git rev-parse --show-toplevel [55ms]
+2025-11-23 12:07:47.697 [info] > git config --get commit.template [62ms]
+2025-11-23 12:07:47.698 [info] > git reflog main --grep-reflog=branch: Created from *. [70ms]
+2025-11-23 12:07:47.712 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [16ms]
+2025-11-23 12:07:47.718 [info] > git config --get commit.template [30ms]
+2025-11-23 12:07:47.722 [info] [Git][getRemotes] No remotes found in the git config file
+2025-11-23 12:07:47.728 [info] > git rev-parse --git-dir --git-common-dir --show-superproject-working-tree [17ms]
+2025-11-23 12:07:47.733 [info] [Model][openRepository] Opened repository (path): /home/seanos1a/portfolio-hub
+2025-11-23 12:07:47.733 [info] [Model][openRepository] Opened repository (real path): /home/seanos1a/portfolio-hub
+2025-11-23 12:07:47.733 [info] [Model][openRepository] Opened repository (kind): repository
+2025-11-23 12:07:47.734 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [31ms]
+2025-11-23 12:07:47.734 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2025-11-23 12:07:47.734 [warning] [Repository][getDefaultBranch] Failed to get default branch details: Failed to execute git.
+2025-11-23 12:07:47.757 [info] [Git][getRemotes] No remotes found in the git config file
+2025-11-23 12:07:47.767 [info] > git status -z -uall [21ms]
+2025-11-23 12:07:47.768 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [41ms]
+2025-11-23 12:07:47.768 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [46ms]
+2025-11-23 12:07:47.768 [warning] [Git][getBranch] No such branch: master
+2025-11-23 12:07:47.777 [info] > git merge-base refs/heads/main refs/remotes/origin/main [60ms]
+2025-11-23 12:07:47.790 [info] > git status -z -uall [17ms]
+2025-11-23 12:07:47.790 [info] > git diff --name-status -z --diff-filter=ADMR --find-renames=50% 18aa206a9aa4d0533e4132115d59c7c550acdc11...refs/remotes/origin/main -- [8ms]
+2025-11-23 12:07:47.790 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [14ms]
+2025-11-23 12:07:47.803 [info] > git rev-parse --show-toplevel [36ms]
+2025-11-23 12:07:47.803 [info] > git config --get commit.template [41ms]
+2025-11-23 12:07:47.804 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [47ms]
+2025-11-23 12:07:47.804 [warning] [Git][getBranch] No such branch: main
+2025-11-23 12:07:47.812 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [60ms]
+2025-11-23 12:07:47.822 [info] > git merge-base refs/heads/main refs/remotes/origin/main [84ms]
+2025-11-23 12:07:47.843 [info] > git status -z -uall [35ms]
+2025-11-23 12:07:47.844 [info] > git merge-base refs/heads/main refs/remotes/origin/main [24ms]
+2025-11-23 12:07:47.849 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [37ms]
+2025-11-23 12:07:47.852 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [52ms]
+2025-11-23 12:07:47.852 [warning] [Git][getBranch] No such branch: master
+2025-11-23 12:07:47.852 [error] [GitHistoryProvider][resolveHEADMergeBase] Failed to resolve merge base for master: Error: No such branch: master.
+2025-11-23 12:07:47.858 [info] [Git][getRemotes] No remotes found in the git config file
+2025-11-23 12:07:47.860 [info] > git diff --name-status -z --diff-filter=ADMR --find-renames=50% be33f1fb4df22e63f783f09e382ea71fe37d5da7...refs/remotes/origin/main -- [11ms]
+2025-11-23 12:07:47.861 [info] > git rev-parse --git-dir --git-common-dir --show-superproject-working-tree [24ms]
+2025-11-23 12:07:47.867 [info] [Model][openRepository] Opened repository (path): /home/seanos1a/sean-s-landing-page
+2025-11-23 12:07:47.867 [info] [Model][openRepository] Opened repository (real path): /home/seanos1a/sean-s-landing-page
+2025-11-23 12:07:47.867 [info] [Model][openRepository] Opened repository (kind): repository
+2025-11-23 12:07:47.868 [info] > git config --get commit.template [36ms]
+2025-11-23 12:07:47.868 [info] > git diff --name-status -z --diff-filter=ADMR --find-renames=50% be33f1fb4df22e63f783f09e382ea71fe37d5da7...refs/remotes/origin/main -- [41ms]
+2025-11-23 12:07:47.888 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [30ms]
+2025-11-23 12:07:47.929 [info] [Git][getRemotes] No remotes found in the git config file
+2025-11-23 12:07:47.936 [info] > git status -z -uall [63ms]
+2025-11-23 12:07:47.936 [info] > git status -z -uall [43ms]
+2025-11-23 12:07:47.936 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [35ms]
+2025-11-23 12:07:47.949 [info] > git rev-parse --show-toplevel [61ms]
+2025-11-23 12:07:47.949 [info] > git config --get commit.template [67ms]
+2025-11-23 12:07:47.949 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [71ms]
+2025-11-23 12:07:47.968 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [22ms]
+2025-11-23 12:07:47.973 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [39ms]
+2025-11-23 12:07:47.974 [warning] [Git][getBranch] No such branch: master
+2025-11-23 12:07:47.991 [info] > git status -z -uall [12ms]
+2025-11-23 12:07:47.992 [info] > git config --get --local branch.master.vscode-merge-base [19ms]
+2025-11-23 12:07:47.992 [warning] [Git][config] git config failed: Failed to execute git
+2025-11-23 12:07:47.997 [info] > git rev-parse --git-dir --git-common-dir --show-superproject-working-tree [30ms]
+2025-11-23 12:07:48.002 [info] [Model][openRepository] Opened repository (path): /home/seanos1a/yahtzee
+2025-11-23 12:07:48.003 [info] [Model][openRepository] Opened repository (real path): /home/seanos1a/yahtzee
+2025-11-23 12:07:48.003 [info] [Model][openRepository] Opened repository (kind): repository
+2025-11-23 12:07:48.007 [info] [Model][doInitialScan] Initial repository scan completed - repositories (10), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-11-23 12:07:48.008 [info] > git config --get commit.template [45ms]
+2025-11-23 12:07:48.018 [info] > git reflog master --grep-reflog=branch: Created from *. [21ms]
+2025-11-23 12:07:48.020 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [31ms]
+2025-11-23 12:07:48.020 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [37ms]
+2025-11-23 12:07:48.038 [info] [Git][getRemotes] No remotes found in the git config file
+2025-11-23 12:07:48.044 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/seanos1a/sean-s-landing-page/.git/refs/remotes/origin/main'
+2025-11-23 12:07:48.045 [info] > git config --get commit.template [32ms]
+2025-11-23 12:07:48.052 [info] > git rev-parse refs/remotes/origin/main [8ms]
+2025-11-23 12:07:48.063 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [25ms]
+2025-11-23 12:07:48.080 [info] > git status -z -uall [23ms]
+2025-11-23 12:07:48.080 [info] > git status -z -uall [12ms]
+2025-11-23 12:07:48.081 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [18ms]
+2025-11-23 12:07:48.098 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [19ms]
+2025-11-23 12:07:48.098 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [25ms]
+2025-11-23 12:07:48.110 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/seanos1a/yahtzee/.git/refs/remotes/origin/main'
+2025-11-23 12:07:48.111 [info] > git config --get commit.template [14ms]
+2025-11-23 12:07:48.111 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [22ms]
+2025-11-23 12:07:48.120 [info] > git rev-parse refs/remotes/origin/main [11ms]
+2025-11-23 12:07:48.160 [info] > git status -z -uall [36ms]
+2025-11-23 12:07:48.161 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [32ms]
+2025-11-23 12:07:48.175 [info] > git config --get --local branch.main.vscode-merge-base [58ms]
+2025-11-23 12:07:48.194 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [12ms]
+2025-11-23 12:07:48.201 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [28ms]
+2025-11-23 12:07:48.206 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [48ms]
+2025-11-23 12:07:48.220 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/seanos1a/sean-s-landing-page/.git/refs/remotes/origin/main'
+2025-11-23 12:07:48.224 [info] > git config --get --local branch.main.vscode-merge-base [18ms]
+2025-11-23 12:07:48.232 [info] > git merge-base refs/heads/main refs/remotes/origin/main [32ms]
+2025-11-23 12:07:48.240 [info] > git config --get commit.template [46ms]
+2025-11-23 12:07:48.242 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [11ms]
+2025-11-23 12:07:48.255 [info] > git rev-parse refs/remotes/origin/main [34ms]
+2025-11-23 12:07:48.275 [info] > git status -z -uall [14ms]
+2025-11-23 12:07:48.276 [info] > git merge-base refs/heads/main refs/remotes/origin/main [23ms]
+2025-11-23 12:07:48.281 [info] > git diff --name-status -z --diff-filter=ADMR --find-renames=50% a20cf3b3e3daacb5602c2e11271afab430711ea7...refs/remotes/origin/main -- [42ms]
+2025-11-23 12:07:48.284 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [10ms]
+2025-11-23 12:07:48.284 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [17ms]
+2025-11-23 12:07:48.292 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/seanos1a/yahtzee/.git/refs/remotes/origin/main'
+2025-11-23 12:07:48.292 [info] > git diff --name-status -z --diff-filter=ADMR --find-renames=50% 0be2243cbbf266187297093da44471024eb9a029...refs/remotes/origin/main -- [11ms]
+2025-11-23 12:07:48.295 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2025-11-23 12:07:48.307 [info] > git status -z -uall [7ms]
+2025-11-23 12:07:48.309 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]
+2025-11-23 12:07:48.358 [info] > git rev-parse --show-toplevel [4ms]
+2025-11-23 12:07:48.359 [info] fatal: not a git repository (or any of the parent directories): .git

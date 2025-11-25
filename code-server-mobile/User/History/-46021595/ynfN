@@ -1,0 +1,25 @@
+Claude AI Workflow and Control Best Practices
+These notes summarize essential commands and workflow tips for effective collaboration with the Claude AI assistant, focusing on Git, debugging, and context management.
+1. Claude Control and Interaction
+| Command/Tip | Function | Notes |
+|---|---|---|
+| Esc | Pause | Pauses Claude at any time. Useful if you don't like what it's doing. |
+| Esc Esc | Step back / Cancel | Stops the current prompt and allows you to step back to a previous one or start a fresh prompt from that point forward. Caution: Repeated Escs can stack up previous prompts. |
+| Typing Mid-Response | Context Correction | Feel free to type into the middle of Claude's output or add context/fixes. Claude will pick up the additional prompt shortly after. |
+| @ | Reference Files | Allows for referencing specific files. Recommended for two reasons: 1) Enables tab auto-completion. 2) Makes the request explicitly clear for Claude. |
+| Ctrl-R | View Verbose Output | While Claude is working, this shows a more verbose output of its actions. |
+| .claude -r | Resume Session | A super useful command-line option to rejoin an earlier Claude session, particularly if you rebooted or crashed. |
+2. Workflow Tips (Git and Commits)
+ * Git Integration: Regularly use Claude to perform git add/commits when ready to submit to your repository.
+  * Manual Review: Always manually trigger the commit/review stage and review the diffs in VS Code (or your environment) instead of auto-approving Claude's suggestions.
+   * Preventing Overcommit: Add instructions to a CLAUDE.MD file within your project to explicitly tell Claude not to commit things you haven't finished or tested yet, preventing unexpected or premature commits.
+    * Context Management: If the current prompt or state becomes "messy," use a fresh prompt or the Esc Esc command to clear the context and start from a clean slate.
+    3. Advanced Practices and Debugging
+     * Screenshots & Logs: Use drag-and-drop or Ctrl-V to paste images (like screenshots or log files) directly into the prompt. This provides Claude with more actionable data to help fix problems.
+      * Feedback Loops: For robust applications, especially web apps, work with onSnapshot listeners to see changes in real-time. Write scripts or tools (e.g., using puppeteer or playwright) to automate the feedback loop and provide structured output for Claude to analyze.
+       * Debugging Strategy: Employ breakpoints, verbose outputs (Ctrl-R), and repetition of steps during the debugging process. Claude is generally good at isolating errors based on this type of detailed, contextual input.
+       Handy Links Mentioned:
+        * Anthropic's Common Workflow: The document recommends exploring the Antrhopic Common Workflow and provides a setup link.
+           * Droppipapi/ccusage
+              * Setup Link: https://github.com/Droppipapi/ccusage
+              

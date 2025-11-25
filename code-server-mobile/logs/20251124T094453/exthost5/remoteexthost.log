@@ -1,0 +1,5 @@
+2025-11-25 02:16:06.886 [info] Extension host with pid 646675 started
+2025-11-25 02:16:06.892 [info] Lock '/home/seanos1a/.local/share/code-server-mobile/User/workspaceStorage/-52b5bf8b/vscode.lock': Lock acquired.
+2025-11-25 02:16:10.891 [info] Extension host terminating: received terminate message from renderer
+2025-11-25 02:16:10.894 [info] Lock '/home/seanos1a/.local/share/code-server-mobile/User/workspaceStorage/-52b5bf8b/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2025-11-25 02:16:10.916 [info] Extension host with pid 646675 exiting with code 0

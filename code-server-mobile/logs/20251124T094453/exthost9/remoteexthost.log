@@ -1,0 +1,30 @@
+2025-11-25 06:54:44.483 [info] Extension host with pid 2596771 started
+2025-11-25 06:54:44.488 [info] Lock '/home/seanos1a/.local/share/code-server-mobile/User/workspaceStorage/-52b5bf8b/vscode.lock': Lock acquired.
+2025-11-25 06:54:44.965 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-11-25 06:54:44.967 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-11-25 06:54:45.428 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-11-25 06:54:45.441 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2025-11-25 06:54:45.739 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-11-25 06:54:45.740 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-11-25 06:54:46.289 [info] Eager extensions activated
+2025-11-25 06:54:46.290 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-11-25 06:54:46.291 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-11-25 06:54:46.556 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'
+2025-11-25 06:54:52.803 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-11-25 06:54:52.803 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-11-25 06:54:52.804 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2025-11-25 10:36:05.658 [info] Extension host terminating: renderer disconnected for too long (1)
+2025-11-25 10:36:05.660 [info] Lock '/home/seanos1a/.local/share/code-server-mobile/User/workspaceStorage/-52b5bf8b/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2025-11-25 10:36:05.765 [error] ProxyResolver#resolveProxy undefined Canceled: Canceled
+	at ql (file:///usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:7:1394)
+	at file:///usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:29:127460
+	at Array.forEach (<anonymous>)
+	at JS.dispose (file:///usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:29:127400)
+	at $X.terminate (file:///usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:118:10208)
+	at nN.terminate (file:///usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:120:914)
+	at Us (file:///usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:402:10412)
+	at Y5.a (file:///usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:402:7253)
+	at Y5.h (file:///usr/lib/code-server/lib/vscode/out/vs/workbench/api/node/extensionHostProcess.js:28:76723)
+	at listOnTimeout (node:internal/timers:588:17)
+	at process.processTimers (node:internal/timers:523:7) 
+2025-11-25 10:36:05.819 [info] Extension host with pid 2596771 exiting with code 0

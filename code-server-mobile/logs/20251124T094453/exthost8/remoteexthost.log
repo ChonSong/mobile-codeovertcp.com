@@ -1,0 +1,24 @@
+2025-11-25 06:09:20.747 [info] Extension host with pid 2267871 started
+2025-11-25 06:09:20.748 [error] Error: EEXIST: file already exists, open '/home/seanos1a/.local/share/code-server-mobile/User/workspaceStorage/-52b5bf8b/vscode.lock'
+2025-11-25 06:09:20.750 [info] Lock '/home/seanos1a/.local/share/code-server-mobile/User/workspaceStorage/-52b5bf8b/vscode.lock': Could not acquire lock, checking if the file is stale.
+2025-11-25 06:09:20.753 [info] Lock '/home/seanos1a/.local/share/code-server-mobile/User/workspaceStorage/-52b5bf8b/vscode.lock': The lock does not look stale, elapsed: 99 ms, giving up.
+2025-11-25 06:09:20.778 [info] Lock '/home/seanos1a/.local/share/code-server-mobile/User/workspaceStorage/-52b5bf8b-1/vscode.lock': Lock acquired.
+2025-11-25 06:09:21.291 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-11-25 06:09:21.292 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+2025-11-25 06:09:21.293 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2025-11-25 06:09:21.293 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-11-25 06:09:22.282 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-11-25 06:09:22.294 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2025-11-25 06:09:22.666 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-11-25 06:09:22.666 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-11-25 06:09:22.939 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+2025-11-25 06:09:23.334 [info] Eager extensions activated
+2025-11-25 06:09:23.335 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-11-25 06:09:23.336 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-11-25 06:09:26.282 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'
+2025-11-25 06:09:29.615 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-11-25 06:09:29.616 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2025-11-25 06:14:31.563 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'
+2025-11-25 06:59:39.949 [info] Extension host terminating: renderer disconnected for too long (2)
+2025-11-25 06:59:39.951 [info] Lock '/home/seanos1a/.local/share/code-server-mobile/User/workspaceStorage/-52b5bf8b-1/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2025-11-25 06:59:40.055 [info] Extension host with pid 2267871 exiting with code 0

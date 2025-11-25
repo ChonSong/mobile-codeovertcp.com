@@ -1,0 +1,12 @@
+2025-11-23 03:46:05.895 [info] 
+
+
+
+
+2025-11-23 03:46:05.917 [info] Extension host agent started.
+2025-11-23 03:46:05.972 [info] Started initializing default profile extensions in extensions installation folder. file:///home/seanos1a/.local/share/code-server-mobile/extensions
+2025-11-23 03:46:05.997 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/seanos1a/.local/share/code-server-mobile/extensions
+2025-11-23 03:49:01.082 [info] [127.0.0.1][92c2eccb][ManagementConnection] New connection established.
+2025-11-23 03:49:06.912 [info] [127.0.0.1][2de3a9a2][ExtensionHostConnection] New connection established.
+2025-11-23 03:49:06.921 [info] [127.0.0.1][2de3a9a2][ExtensionHostConnection] <324089> Launched Extension Host Process.
+2025-11-23 03:52:59.409 [error] ptyHost terminated unexpectedly with code null
