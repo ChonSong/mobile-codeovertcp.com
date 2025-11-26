@@ -1,8 +1,22 @@
 /* Mobile Code-Server Overrides */
 
+/* 0. Visual Indicator (Green Bottom Border) to confirm Mobile Mode is Active */
+body {
+    border-bottom: 3px solid #00ff00 !important;
+    box-sizing: border-box;
+}
+
+/* Terminal Touch Fixes */
+.xterm-viewport {
+    touch-action: pan-y !important;
+    /* Allow vertical scrolling */
+}
+
+
 /* 1. Larger Touch Targets for Tree View */
 .monaco-list-row {
-    height: 28px !important; /* Increase row height */
+    height: 28px !important;
+    /* Increase row height */
     line-height: 28px !important;
 }
 
@@ -12,14 +26,16 @@
 }
 
 /* 2. Scrollbar Improvements */
-.monaco-scrollable-element > .scrollbar > .slider {
-    min-width: 15px !important; /* Wider vertical scrollbar */
-    min-height: 15px !important; /* Taller horizontal scrollbar */
+.monaco-scrollable-element>.scrollbar>.slider {
+    min-width: 15px !important;
+    /* Wider vertical scrollbar */
+    min-height: 15px !important;
+    /* Taller horizontal scrollbar */
     border-radius: 10px !important;
     background: rgba(100, 100, 100, 0.6) !important;
 }
 
-.monaco-scrollable-element > .scrollbar > .slider:hover {
+.monaco-scrollable-element>.scrollbar>.slider:hover {
     background: rgba(100, 100, 100, 0.8) !important;
 }
 
@@ -39,8 +55,12 @@
 }
 
 /* 5. General Touch Optimizations */
-input, select, button, textarea {
-    font-size: 16px !important; /* Prevent zoom on focus on iOS */
+input,
+select,
+button,
+textarea {
+    font-size: 16px !important;
+    /* Prevent zoom on focus on iOS */
 }
 
 /* Context Menu Touch Target */
